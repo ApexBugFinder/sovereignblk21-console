@@ -3,7 +3,7 @@ import json, random
 from enum import Enum
 from menus import show_menus
 from models import deck, card, hand, player
-from game import blackjack
+from models import blackjack
 
 
 
