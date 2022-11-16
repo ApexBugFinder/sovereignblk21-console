@@ -1,5 +1,5 @@
 # sovereignblack-console
-
+Sovereign BlackJack 21 aka Sovereign Black 21 aka SB21 is my first game I've ever made.  I got a chance to experiment with python for this project. It is a simple console app but I'm working on making a web app and maybe an android app version.
 
 
 ## Getting started
